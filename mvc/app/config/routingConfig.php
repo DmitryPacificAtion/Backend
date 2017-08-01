@@ -4,7 +4,7 @@
 
 return [
     'home' => [
-        'path' => '/home/i',
+        'path' => '/home/',
         'controller' => \app\Controller\HomeController::class,
         'method' => 'GET',
     ],
